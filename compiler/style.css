@@ -1,0 +1,11 @@
+*{
+    color: white;
+    background-color: rgb(34, 34, 34);
+    font-family: 'Nanum Gothic Coding', monospace;
+    font-size: small;
+    border-color:rgb(94, 94, 94);
+}
+
+#source{
+    height: 40%;
+}
